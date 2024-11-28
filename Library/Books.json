@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Название1",
+    "author": "Автор1",
+    "year": 2019,
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Название2",
+    "author": "Автор2",
+    "year": 2020,
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Название3",
+    "author": "Автор3",
+    "year": 2021,
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Название4",
+    "author": "Автор1",
+    "year": 2019,
+    "status": true
+  }
+]
